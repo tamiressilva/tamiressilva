@@ -1,13 +1,25 @@
-<h1 align="center">Hey, I'm Tatá!</h1>
+<h1 align="center">Hey, I'm Tatá! 👩‍💻</h1>
+
+<table>
+<tr>
+<td width="60%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E671B8&center=true&vCenter=true&width=600&lines=Qualidade+%7C+Engenharia+%7C+Dados+%7C+Automo%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E671B8&center=true&vCenter=true&width=500&lines=Qualidade+%7C+Engenharia+%7C+Dados+%7C+Automo%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🔎 Sobre mim
-
 
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas** (PUCPR)
 - 📚 Cursando pós-graduação/MBA em **Gestão da Qualidade**
