@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Tami</h1>
+<h1 align="center">Hey, I'm Tatá!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E671B8&center=true&vCenter=true&width=600&lines=Qualidade+%7C+Engenharia+%7C+Dados+%7C+Automo%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
